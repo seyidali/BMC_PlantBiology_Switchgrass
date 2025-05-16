@@ -1,0 +1,1 @@
+# Data File used in article "An Integrated Approach Using Machine Learning Models and Design of Experiment for  Optimizing Aquatic Biomass-Derived Hydrochar for Sustainable Biomass and Nutrient Efficiency in Switchgrass" article submittedt to BMC Plant Biology
