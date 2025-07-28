@@ -1,1 +1,1 @@
-# Data File used in article "An Integrated Approach Using Machine Learning Models and Design of Experiment for  Optimizing Aquatic Biomass-Derived Hydrochar for Sustainable Biomass and Nutrient Efficiency in Switchgrass" article submitted to BMC Plant Biology
+# Data File used in article "Integrating Taguchi Design and Machine Learning Models for Trait Stability and Predictive Modeling of Forage Quality in Grass pea (Lathyrus spp.)" article submitted to BMC Plant Biology
